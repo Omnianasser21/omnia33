@@ -1,0 +1,64 @@
+.nono{
+    font-size: 10px;
+}
+.parent1{
+    height: 100vh;
+    background-image: url(../img/banner.png);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    
+    
+}
+.card-t{
+    font-size: 80px;
+    color: white;
+}
+.card {
+    background-color: rgb(45, 48, 61);
+    height: 400px;
+        
+    
+    
+}
+.card2 {
+    background-color: rgb(38, 41, 54);
+    height: 400px;
+}
+footer{
+    background-color: rgb(38, 41, 54);
+    height: auto;
+}
+.icon-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: rgb(37, 36, 36);
+    color: #0d6efd;
+   
+}
+
+.icon-wrapper:hover{
+    background-color:#0d6efd;
+    color: white;
+ 
+}
+#button2{
+    top: 5px;
+    left: 92%;
+    border-radius: 45%;
+    width: 80px;
+    transition: ease 1s;
+    
+  
+   
+}
+  
+li:hover{
+    border: 2px blue solid;
+    border-radius: 20%;
+
+}
